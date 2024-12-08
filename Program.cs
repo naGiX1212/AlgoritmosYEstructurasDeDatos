@@ -1,4 +1,4 @@
-﻿namespace AlgoritmosYEstrucutrasDeDatos
+﻿namespace AlgoritmosYEstructurasDeDatos
 {
     internal class Program
     {
